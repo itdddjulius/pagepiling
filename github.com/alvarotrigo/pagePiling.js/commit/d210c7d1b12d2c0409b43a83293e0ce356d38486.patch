@@ -1,0 +1,22 @@
+From d210c7d1b12d2c0409b43a83293e0ce356d38486 Mon Sep 17 00:00:00 2001
+From: Hey <18427051+Hey@users.noreply.github.com>
+Date: Mon, 29 Mar 2021 13:50:37 +0200
+Subject: [PATCH] Typo fix
+
+---
+ examples/noAnchors.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/examples/noAnchors.html b/examples/noAnchors.html
+index 392f7a8..638de70 100644
+--- a/examples/noAnchors.html
++++ b/examples/noAnchors.html
+@@ -22,7 +22,7 @@
+ 			    sectionsColor: ['#bfda00', '#2ebe21', '#2C3E50', '#51bec4'],
+ 			    navigation: {
+ 			    	'position': 'right',
+-			   		'tooltips': ['Page 1', 'Page 2', 'Page 3', 'Pgae 4']
++			   		'tooltips': ['Page 1', 'Page 2', 'Page 3', 'Page 4']
+ 			   	}
+ 			});
+ 	    });

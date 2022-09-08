@@ -1,0 +1,37 @@
+From b5900c68863cf6299d5a16d6a2f8f1c3645a2df1 Mon Sep 17 00:00:00 2001
+From: "dependabot[bot]" <49699333+dependabot[bot]@users.noreply.github.com>
+Date: Tue, 10 Aug 2021 21:38:42 +0000
+Subject: [PATCH] Bump path-parse from 1.0.6 to 1.0.7
+
+Bumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.
+- [Release notes](https://github.com/jbgutierrez/path-parse/releases)
+- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)
+
+---
+updated-dependencies:
+- dependency-name: path-parse
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+---
+ package-lock.json | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/package-lock.json b/package-lock.json
+index 69ebdee..929eccb 100644
+--- a/package-lock.json
++++ b/package-lock.json
+@@ -2821,9 +2821,9 @@
+       "dev": true
+     },
+     "path-parse": {
+-      "version": "1.0.6",
+-      "resolved": "https://registry.npmjs.org/path-parse/-/path-parse-1.0.6.tgz",
+-      "integrity": "sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==",
++      "version": "1.0.7",
++      "resolved": "https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz",
++      "integrity": "sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==",
+       "dev": true
+     },
+     "path-root": {

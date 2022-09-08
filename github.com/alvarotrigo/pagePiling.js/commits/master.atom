@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/alvarotrigo/pagePiling.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/alvarotrigo/pagePiling.js/commits/master.atom"/>
+  <title>Recent Commits to pagePiling.js:master</title>
+  <updated>2021-08-18T19:10:39Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5c5caeff30916cf98d5e962984fe9c7ebde9d80</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/e5c5caeff30916cf98d5e962984fe9c7ebde9d80"/>
+    <title>
+        Merge pull request #226 from alvarotrigo/dependabot/npm_and_yarn/path…
+    </title>
+    <updated>2021-08-18T19:10:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #226 from alvarotrigo/dependabot/npm_and_yarn/path-parse-1.0.7
+
+Bump path-parse from 1.0.6 to 1.0.7&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b5900c68863cf6299d5a16d6a2f8f1c3645a2df1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/b5900c68863cf6299d5a16d6a2f8f1c3645a2df1"/>
+    <title>
+        Bump path-parse from 1.0.6 to 1.0.7
+    </title>
+    <updated>2021-08-10T21:38:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump path-parse from 1.0.6 to 1.0.7
+
+Bumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.
+- [Release notes](https://github.com/jbgutierrez/path-parse/releases)
+- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)
+
+---
+updated-dependencies:
+- dependency-name: path-parse
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/89f2d4ae142a7cb94de3b536475686c28ebe7843</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/89f2d4ae142a7cb94de3b536475686c28ebe7843"/>
+    <title>
+        Merge pull request #223 from alvarotrigo/dependabot/npm_and_yarn/host…
+    </title>
+    <updated>2021-05-12T09:42:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #223 from alvarotrigo/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+
+Bump hosted-git-info from 2.8.8 to 2.8.9&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b1cb98b41157cbfe2519ca352697c6a3e0ac7934</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/b1cb98b41157cbfe2519ca352697c6a3e0ac7934"/>
+    <title>
+        Bump hosted-git-info from 2.8.8 to 2.8.9
+    </title>
+    <updated>2021-05-11T23:09:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump hosted-git-info from 2.8.8 to 2.8.9
+
+Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8 to 2.8.9.
+- [Release notes](https://github.com/npm/hosted-git-info/releases)
+- [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+- [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.8...v2.8.9)
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/76e79596b10b93fd62a6b5a58ef84bf94be236af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/76e79596b10b93fd62a6b5a58ef84bf94be236af"/>
+    <title>
+        Merge pull request #222 from alvarotrigo/dependabot/npm_and_yarn/y18n…
+    </title>
+    <updated>2021-03-31T22:03:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #222 from alvarotrigo/dependabot/npm_and_yarn/y18n-3.2.2
+
+Bump y18n from 3.2.1 to 3.2.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/470f7be35fc97fdb3b94eb26479f76c73d8599e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/470f7be35fc97fdb3b94eb26479f76c73d8599e2"/>
+    <title>
+        Bump y18n from 3.2.1 to 3.2.2
+    </title>
+    <updated>2021-03-31T18:45:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump y18n from 3.2.1 to 3.2.2
+
+Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
+- [Release notes](https://github.com/yargs/y18n/releases)
+- [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/yargs/y18n/commits)
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ef3f421680d5f594ce6390ac917529c89ce7e52</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/9ef3f421680d5f594ce6390ac917529c89ce7e52"/>
+    <title>
+        Merge pull request #221 from Hey/patch-1
+    </title>
+    <updated>2021-03-29T12:04:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #221 from Hey/patch-1
+
+Typo fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d210c7d1b12d2c0409b43a83293e0ce356d38486</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/d210c7d1b12d2c0409b43a83293e0ce356d38486"/>
+    <title>
+        Typo fix
+    </title>
+    <updated>2021-03-29T11:50:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/18427051?s=30&amp;v=4"/>
+    <author>
+      <name>Hey</name>
+      <uri>https://github.com/Hey</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Typo fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1f8377ad9e4a9d0cccfd6594bf55ae5499e5dc43</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/1f8377ad9e4a9d0cccfd6594bf55ae5499e5dc43"/>
+    <title>
+        Merge pull request #212 from alvarotrigo/dependabot/npm_and_yarn/ini-…
+    </title>
+    <updated>2020-12-11T10:31:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #212 from alvarotrigo/dependabot/npm_and_yarn/ini-1.3.7
+
+Bump ini from 1.3.5 to 1.3.7&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6a9a1e0af26da13819edf0f7bc4a27621c90cb08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/6a9a1e0af26da13819edf0f7bc4a27621c90cb08"/>
+    <title>
+        Bump ini from 1.3.5 to 1.3.7
+    </title>
+    <updated>2020-12-11T01:34:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump ini from 1.3.5 to 1.3.7
+
+Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.7.
+- [Release notes](https://github.com/isaacs/ini/releases)
+- [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.7)
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aed4126e76076454d9d7f77b04f02f99676a4850</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/aed4126e76076454d9d7f77b04f02f99676a4850"/>
+    <title>
+        Merge pull request #211 from kourosh-neyestani/master
+    </title>
+    <updated>2020-12-09T10:40:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #211 from kourosh-neyestani/master
+
+Check if the element exists first, then attach an event handler&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3a79fa2df57b08bbafd9e4bf411de02d1ed57315</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/3a79fa2df57b08bbafd9e4bf411de02d1ed57315"/>
+    <title>
+        Check if the element exists first, then attach an event handler
+    </title>
+    <updated>2020-12-08T18:19:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/18656560?s=30&amp;v=4"/>
+    <author>
+      <name>kourosh-neyestani</name>
+      <uri>https://github.com/kourosh-neyestani</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Check if the element exists first, then attach an event handler&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2bb4b4bf5b89aee708afcbf79700b19c9b6a8be4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/2bb4b4bf5b89aee708afcbf79700b19c9b6a8be4"/>
+    <title>
+        Merge pull request #198 from icoder-new/patch-1
+    </title>
+    <updated>2020-03-25T19:28:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #198 from icoder-new/patch-1
+
+Update videoBackground.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29bf82cf5c5d22fe11a0baae862607046698c7a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/29bf82cf5c5d22fe11a0baae862607046698c7a5"/>
+    <title>
+        Update videoBackground.html
+    </title>
+    <updated>2020-03-25T13:12:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/59335419?s=30&amp;v=4"/>
+    <author>
+      <name>icoder-new</name>
+      <uri>https://github.com/icoder-new</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update videoBackground.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bfe5e73430c9cd0d217247265c80ff68e23b0415</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/bfe5e73430c9cd0d217247265c80ff68e23b0415"/>
+    <title>
+        - Updating package.json version
+    </title>
+    <updated>2019-01-29T10:18:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;- Updating package.json version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e11d9cba2eea0e3e9c6709fa61c45905669200fe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/e11d9cba2eea0e3e9c6709fa61c45905669200fe"/>
+    <title>
+        Version 1.5.6
+    </title>
+    <updated>2019-01-29T10:18:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version 1.5.6
+
+- Fixed bug: Firefox flicker #168 #167
+- Documentation: added version number
+- Updated version and dist files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b3a87a6e8aca6a0188d82737da7985a60faba113</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/b3a87a6e8aca6a0188d82737da7985a60faba113"/>
+    <title>
+        Merge pull request #173 from NahshalElN/master
+    </title>
+    <updated>2019-01-29T10:07:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #173 from NahshalElN/master
+
+Fixed flickering on firefox&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a8b1d8b4837a5e692a27b815aaac5ef66cf259d0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/a8b1d8b4837a5e692a27b815aaac5ef66cf259d0"/>
+    <title>
+        Fixed flickering in firefox (updated comment)
+    </title>
+    <updated>2019-01-28T17:25:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/29670186?s=30&amp;v=4"/>
+    <author>
+      <name>NahshalElN</name>
+      <uri>https://github.com/NahshalElN</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed flickering in firefox (updated comment)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e0e5f6fb6a9473aa83860505a76254ae41daed63</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/e0e5f6fb6a9473aa83860505a76254ae41daed63"/>
+    <title>
+        Fixed flickering on firefox
+    </title>
+    <updated>2019-01-24T11:52:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/29670186?s=30&amp;v=4"/>
+    <author>
+      <name>NahshalElN</name>
+      <uri>https://github.com/NahshalElN</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed flickering on firefox&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f3de9c79948c254f38610bd321ca42e258782e9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/alvarotrigo/pagePiling.js/commit/4f3de9c79948c254f38610bd321ca42e258782e9"/>
+    <title>
+        Merge pull request #159 from SakhirAtwi/master
+    </title>
+    <updated>2018-08-07T13:58:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1706326?s=30&amp;v=4"/>
+    <author>
+      <name>alvarotrigo</name>
+      <uri>https://github.com/alvarotrigo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #159 from SakhirAtwi/master
+
+Fix the section1 vertical overflow issue in example videoBackground.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>
