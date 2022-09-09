@@ -1,21 +1,21 @@
 # pagePiling.js
 
-![preview](https://raw.github.com/alvarotrigo/pagePiling.js/master/examples/imgs/pagePiling-plugin.png)
-![compatibility](https://raw.github.com/alvarotrigo/pagePiling.js/master/examples/imgs/compatible.gif)\
+![preview](https://github.com/itdddjulius/pagepiling/blob/dependabot/npm_and_yarn/mixin-deep-1.3.2/JO_Logo.png)
+![compatibility](https://github.com/itdddjulius/pagepiling/blob/dependabot/npm_and_yarn/mixin-deep-1.3.2/JO_Logo.png)\
 Pile your sections one over another and access them scrolling or by URL!
 
-![pagePiling.js version](http://img.shields.io/badge/fullPage.js-v1.5.6-brightgreen.svg)
+![pagePiling.js version](https://github.com/itdddjulius/pagepiling/blob/dependabot/npm_and_yarn/mixin-deep-1.3.2/JO_Logo.png)
 
-- [Live demo](http://alvarotrigo.com/pagePiling/)
+- [Live demo](https://www.raiiar.com.ng/pagepiling/)
 - [Creating hugeinc.com website with pagePiling.js](http://www.onextrapixel.com/2015/04/09/how-to-create-a-beautiful-fullscreen-single-scrolling-page-like-huge-inc/)
 - [Who is using it](https://github.com/alvarotrigo/pagePiling.js#who-is-using-pagepilingjs)
 
 Invite me to a coffee
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BEK5JQCQMED4J&lc=GB&item_name=pagePiling%2ejs&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
 
-Customizations of the plugin available upon request for some reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
+Customizations of the plugin available upon request for some reasonable price. <a href="https://www.raiiar.com.ng/#contact">Contact me</a>.
 
-Would you like to have a website using pilePage.js functionality but you don't know how to use it? I can do it for you for a reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
+Would you like to have a website using pilePage.js functionality but you don't know how to use it? I can do it for you for a reasonable price. <a href="https://www.raiiar.com.ng/#contact">Contact me</a>.
 
 ## Introduction
 Suggestion are more than welcome, not only for feature requests but also for coding style improvements.
@@ -27,9 +27,9 @@ It works with browsers with CSS3 support and with the ones which don't have it, 
 
 It is also designed to work on touch devices such as mobile phones or tablets.
 
-[![Browserstack](http://wallpapers-for-ipad.com/fullpage/imgs3/logos/browserstack2.png)](http://www.browserstack.com/)
+[![Browserstack](https://github.com/itdddjulius/pagepiling/blob/dependabot/npm_and_yarn/mixin-deep-1.3.2/JO_Logo.png)](https://www.raiiar.com.ng/)
 
-Special thanks to [Browserstack](http://www.browserstack.com/) for supporting pagePiling.js.
+Special thanks to [Browserstack](https://www.raiiar.com.ng/) for supporting pagePiling.js.
 
 ## Usage
 As you can see in the example files, you will need to include the JavaScript file `jquery.pagepiling.js` (or the minified version `jquery.pagepiling.min.js`) and the css file `jquery.pagepiling.css` of the plugin, as well as [jQuery](http://jquery.com/). Optionally, you can add the [jQuery UI library](http://jqueryui.com/) in case you want to use other easing effects apart from the ones included in the jQuery library which are the `linear` or `swing` effects.
